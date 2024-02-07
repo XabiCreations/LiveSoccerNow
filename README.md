@@ -66,3 +66,5 @@ Estructura del Proyecto
 -   config.py: Configuración de la aplicación.
 
 Espero que te guste!
+
+https://youtu.be/qZ5yClU_O_U
